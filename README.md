@@ -3,3 +3,4 @@
 - Hugo
 - Jimmy
 - Luuk
+- Max
