@@ -2,3 +2,7 @@
 
 - Hugo
 - Elise
+- Jimmy
+- Jacky
+- Luuk
+- Max
