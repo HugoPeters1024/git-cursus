@@ -2,4 +2,5 @@
 
 - Hugo
 - Jimmy
-- Jack
+- Jacky
+- Max
