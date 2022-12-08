@@ -2,5 +2,6 @@
 
 - Hugo
 - Jimmy
+- Jacky
 - Luuk
 - Max
